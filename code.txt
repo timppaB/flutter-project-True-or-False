@@ -1,3 +1,1 @@
-flutter is the bust help me make my app
-omg first time uploading stuff on github
-hi
+my project
